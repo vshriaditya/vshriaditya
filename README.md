@@ -4,13 +4,11 @@ I turn ideas into tangible products quickly, including internal tools, productiv
 
 ## Selected projects
 
-### Code Teardown
+### [Code Teardown](https://github.com/vshriaditya/code-teardown)
 Turns any codebase into an interactive visual breakdown that helps non-technical builders understand how it works.
 
-### FireTV Ads UI Mockup
+### [FireTV Ads UI Mockup](https://github.com/vshriaditya/alexa-photos-proto)
 A concept for a clearer, more intuitive, gamified advertiser experience on Fire TV.
 
-### FireTV Playbreak Advertiser UI Mockup
+### [FireTV Playbreak Advertiser UI Mockup](https://github.com/vshriaditya/firetv-playbreak-console)
 A product mockup exploring advertiser workflows for launching and managing interactive gamified ad experiences.
-
-<!-- profile refresh -->
