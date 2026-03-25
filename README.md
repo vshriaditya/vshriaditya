@@ -1,6 +1,6 @@
 # Product manager using vibe coding to build tools, prototypes, and product experiences.
 
-I turn ideas into tangible products quickly, including internal tools, productivity scripts, expense-report automation, user-flow mockups, and product concepts that benefit from fast iteration.
+I turn ideas into tangible products quickly, including internal tools, productivity scripts, user-flow mockups, and product concepts that benefit from fast iteration.
 
 ## Selected projects
 
